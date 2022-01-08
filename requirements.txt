@@ -1,10 +1,10 @@
 tqdm
 psutil
 pathlib
-numpy==1.17.4
-opencv-python==4.1.2.30
+numpy==1.22.0
+opencv-python==4.2.0.32.30
 scikit-image
-Pillow==6.2.1
+Pillow==9.0.0
 scikit-learn
 toposort
 fastcluster
@@ -16,7 +16,7 @@ ffmpy==0.2.2
 git+https://github.com/deepfakes/nvidia-ml-py3.git
 #nvidia-ml-py3
 h5py==2.9.0
-Keras==2.2.4
+Keras==2.6.0rc3
 pywin32 ; sys_platform == "win32"
 pynvx==1.0.0 ; sys_platform == "darwin"
 
