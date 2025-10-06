@@ -19,7 +19,7 @@ ffmpy==0.2.2
 git+https://github.com/deepfakes/nvidia-ml-py3.git
 #nvidia-ml-py3
 h5py==2.9.0
-Keras==2.2.4
+Keras==3.11.3
 pywin32 ; sys_platform == "win32"
 pynvx==0.0.4 ; sys_platform == "darwin"
 tensorflow==1.13.1
